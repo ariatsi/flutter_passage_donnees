@@ -54,11 +54,6 @@ assets/
   <img src="assets/screenshots/formulaire.png" alt="Formulaire" width="40%" />
 </p>
 
-
-![Capture d'écran du profil Flutter](assets/screenshots/profil.png)
-![Capture d'écran du formulaire Flutter](assets/screenshots/formulaire.png)
-
-
 ## Lancement du projet
 
 1. Clonez le dépôt :
