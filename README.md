@@ -49,9 +49,8 @@ assets/
 
 ## Capture d'écran
 
-> *(À ajouter plus tard une capture de l'application affichant le profil)*
 ![Capture d'écran du profil Flutter](assets/screenshots/profil.png)
-![texte alternatif] est utilisé si l'image ne se charge pas (bon pour l’accessibilité).
+![Capture d'écran du formulaire Flutter](assets/screenshots/formulaire.png)
 
 
 ## Lancement du projet
