@@ -74,10 +74,9 @@ assets/
 ## Prochaines étapes
 
 - Intégration du **Provider** pour la gestion des états
-- Amélioration du formulaire (validation avancée)
 - Modification de l'avatar de profil
 - Sauvegarde locale ou API distante
 
-## Auteur
+## Licence
 
-Formation Flutter 2025 – Module : Applications multiplateformes
+📄 Ce projet est distribué sous la licence Academic Free License v3.0 ([AFL-3.0](https://opensource.org/licenses/AFL-3.0)).
