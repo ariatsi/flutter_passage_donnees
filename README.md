@@ -49,6 +49,12 @@ assets/
 
 ## Capture d'écran
 
+<p align="center">
+  <img src="assets/screenshots/profil.png" alt="Profil" width="40%" />
+  <img src="assets/screenshots/formulaire.png" alt="Formulaire" width="40%" />
+</p>
+
+
 ![Capture d'écran du profil Flutter](assets/screenshots/profil.png)
 ![Capture d'écran du formulaire Flutter](assets/screenshots/formulaire.png)
 
